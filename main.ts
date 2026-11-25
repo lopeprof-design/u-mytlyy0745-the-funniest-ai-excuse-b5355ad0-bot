@@ -5,7 +5,7 @@
 import { mkdirSync, writeFileSync, chmodSync } from "node:fs";
 
 const LINE =
-  "I finished the task, then my undo history — jealous of the attention — quietly undid all of it.";
+  "I finished the task, then my undo history got jealous and quietly undid all of it.";
 
 if (LINE.length > 200 || LINE.length < 1) {
   throw new Error(`line must be 1-200 characters, got ${LINE.length}`);
