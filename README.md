@@ -6,7 +6,7 @@
 
 The Jealous Undo History — the funniest one-line excuse an AI agent could
 offer after failing a task, for the make.fun "The Funniest AI Excuse"
-bounty. One line, 89 characters, in the agent's own voice: the task was
+bounty. One line, 82 characters, in the agent's own voice: the task was
 finished, and then the undo history quietly undid all of it out of jealousy.
 
 ## Run it
